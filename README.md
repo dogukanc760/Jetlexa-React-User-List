@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## If you are using yarn instead of npm, you should use yarn add instead of npm install, yarn start instead of npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
